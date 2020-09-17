@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "envpasar\\Scripts\\python.exe",
+    "python.formatting.provider": "yapf"
+}
